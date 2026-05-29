@@ -1,0 +1,13 @@
+Training Metrics Summary
+========================
+
+Best epoch: 112
+Best full-image validation PSNR: 30.2004 dB
+Best rain validation PSNR: 29.2925 dB
+Best snow validation PSNR: 31.1083 dB
+Learning rate at best epoch: 0.00000219
+
+Final epoch: 120
+Final full-image validation PSNR: 30.1997 dB
+Final rain validation PSNR: 29.2951 dB
+Final snow validation PSNR: 31.1042 dB
