@@ -2,7 +2,7 @@
 
 Image Restoration for Rain and Snow Degradation with a PromptIR-inspired Network
 
-Name: Cheng-Yu Cheng  
+Name: 鄭琮祐
 Student ID: 314553035  
 GitHub Repository: https://github.com/stanlybaa/NYCU-Computer-Vision-2026-HW4
 
