@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Dataset
+release_folder/
+hw4_realse_dataset/
+hw4_release_dataset/
+*.zip
+
+# Checkpoints
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+hw4_checkpoints*/
+work_dirs/
+
+# Submission outputs
+pred.npz
+submission.zip
+*.npz
+
+# Logs
+*.log
+runs/
+wandb/
+
+# OS
+.DS_Store
+__MACOSX/
