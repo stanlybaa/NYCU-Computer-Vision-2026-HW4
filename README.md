@@ -24,7 +24,6 @@ NYCU-Computer-Vision-2026-HW4/
 - model.py
 - train.py
 - inference.py
-- plot_metrics.py
 - figures/
   - training_curve.png
   - validation_psnr_by_type.png
