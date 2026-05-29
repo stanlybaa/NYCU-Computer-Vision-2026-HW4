@@ -231,7 +231,7 @@ The final model achieved a public CodaBench PSNR above the strong baseline.
 
 Public leaderboard score:
 
-30.06+
+30.67
 
 Since this homework is an image restoration task evaluated by PSNR, a confusion matrix is not applicable. Instead, I report full-image validation PSNR, rain/snow validation PSNR, loss curves, and the public leaderboard result.
 
