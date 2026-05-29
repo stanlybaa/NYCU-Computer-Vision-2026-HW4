@@ -225,22 +225,6 @@ The zip file contains:
 
 pred.npz
 
-## 8.3 Plot Training Curves
-
-Generate figures from the training history:
-
-python plot_metrics.py \
-  --csv ./hw4_checkpoints_promptir_l1grad_single_b2_d48/history.csv \
-  --out_dir ./figures
-
-This generates the following figures:
-
-- figures/training_curve.png
-- figures/validation_psnr_by_type.png
-- figures/loss_components.png
-- figures/learning_rate_schedule.png
-- figures/training_summary_4panel.png
-
 ## 9. Results
 
 The final model achieved a public CodaBench PSNR above the strong baseline.
